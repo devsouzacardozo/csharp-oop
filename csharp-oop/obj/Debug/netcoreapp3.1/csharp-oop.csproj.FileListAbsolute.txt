@@ -1,0 +1,4 @@
+C:\Users\ValeAzul\Desktop\csharp-oop\csharp-oop\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.AssemblyInfoInputs.cache
+C:\Users\ValeAzul\Desktop\csharp-oop\csharp-oop\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.AssemblyInfo.cs
+C:\Users\ValeAzul\Desktop\csharp-oop\csharp-oop\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.csproj.CoreCompileInputs.cache
+C:\Users\ValeAzul\Desktop\csharp-oop\csharp-oop\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.csprojAssemblyReference.cache
